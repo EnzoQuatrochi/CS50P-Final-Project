@@ -17,7 +17,7 @@ def createSignatureImage(first, last, doc, date, hour, course):
 
     courseImageName = course.split(" - ")[0]
 
-    logo = Image.open(f"{courseImageName}.png").convert("RGBA")
+    logo = Image.open(f"assets/{courseImageName}.png").convert("RGBA")
     logo.thumbnail((140, 140))
 
     img.paste(logo, (10, 20), logo)

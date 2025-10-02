@@ -27,7 +27,7 @@ The file test_program.py is responsible for testing all functions used by the pr
 Some of these functions cannot be tested, but all possible functions are tested with all validations to ensure no exceptions occur during use.
 
 #### Installation:
-To run the program, you need to download all the libraries from the requirements.txt file using pip. You also need to download all the CS50 course images and place them in the same folder as the program.py file, as well as the PDF files that will be signed.
+To run the program, you need to download all the libraries from the requirements.txt file using pip. You also need to download all the images from the CS50 course and place them in the assets folder. Finally, you need to place the PDF files that will be signed in the main folder at the same level as the program.
 
 1. Clone the repository.
 2. Download all CS50 images:
