@@ -39,7 +39,8 @@ To run the program, you need to download all the libraries from the requirements
    - [Download CS50SQL Logo](CS50SQL.png)
    - [Download CS50C Logo](CS50C.png)
 
-3. Download the requirements:
+3. Insert images into the assets folder.
+4. Download the requirements:
 
 ```
 pip install -r requirements.txt
